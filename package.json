@@ -1,6 +1,6 @@
 {
   "name": "bower-name-cli",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Check whether a package name is available on bower",
   "license": "MIT",
   "repository": "sindresorhus/bower-name-cli",
