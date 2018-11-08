@@ -1,3 +1,9 @@
+# Deprecated
+
+Deprecated as Bower is practically unmaintained. Check out [`npm-name-cli`](https://github.com/sindresorhus/npm-name-cli) instead.
+
+---
+
 # bower-name-cli [![Build Status](https://travis-ci.org/sindresorhus/bower-name-cli.svg?branch=master)](https://travis-ci.org/sindresorhus/bower-name-cli)
 
 > Check whether a package name is available on bower
